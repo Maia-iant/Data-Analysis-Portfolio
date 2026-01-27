@@ -72,6 +72,17 @@ J’aide les TPE/PME, commerces et structures publiques à exploiter leurs donn�
 
 ---
 
+### 6. Étude de marché – Volaille bio à l’export
+
+**Dépôt :** [Etude-de-marche](https://github.com/Maia-iant/Etude-de-marche)  
+**Objectif :** aider une entreprise de volaille bio à identifier les pays les plus attractifs pour développer ses exportations.  
+**Travail réalisé :**  
+- Données FAO et Banque mondiale pour plus de 150 pays.  
+- Nettoyage, analyse exploratoire, ACP, corrélations, CAH et K-means.  
+- Segmentation des pays en clusters et sélection d’un top 5 de pays cibles.  
+**Valeur métier :** fournir une recommandation data-driven pour orienter la stratégie export sur les marchés à plus fort potentiel.
+
+  
 ## 🛠️ Compétences & outils
 
 - **Langages & libs :** Python (pandas, numpy, matplotlib, seaborn, scikit-learn), SQL.  
