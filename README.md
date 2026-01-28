@@ -82,6 +82,8 @@ J’aide les TPE/PME, commerces et structures publiques à exploiter leurs donn�
 - Segmentation des pays en clusters et sélection d’un top 5 de pays cibles.  
 **Valeur métier :** fournir une recommandation data-driven pour orienter la stratégie export sur les marchés à plus fort potentiel.
 
+---
+
  ### 7. Détecter des faux billets avec Python 
 
 **Dépôt :** [Detecter-des-faux-billets-avec-Python](https://github.com/Maia-iant/Detecter-des-faux-billets-avec-Python)  
@@ -91,6 +93,10 @@ J’aide les TPE/PME, commerces et structures publiques à exploiter leurs donn�
 - EDA, visualisations, corrélations et tests de plusieurs modèles (Régression logistique, KNN, Random Forest, K-means).  
 - Régression logistique retenue (≈ 99 % d’accuracy) et script de prédiction prêt pour un usage opérationnel.  
 **Valeur métier :** proposer un outil automatisé, interprétable et robuste pour aider à la détection des faux billets et sécuriser le flux monétaire.
+
+  ---
+
+  
   
 ## 🛠️ Compétences & outils
 
