@@ -95,9 +95,23 @@ J’aide les TPE/PME, commerces et structures publiques à exploiter leurs donn�
 **Valeur métier :** proposer un outil automatisé, interprétable et robuste pour aider à la détection des faux billets et sécuriser le flux monétaire.
 
   ---
+### 8. Observation mondiale de la parité avec Power BI  
 
-  
-  
+[](https://github.com/Maia-iant/Data-Analysis-Portfolio/edit/main/README.md#8-observation-mondiale-de-la-parit%C3%A9-avec-power-bi)  
+
+**Dépôt** : [Observation-mondiale-de-la-parite](https://github.com/Maia-iant/Observation-mondiale-de-la-parite)  
+
+**Objectif** : construire un tableau de bord Power BI permettant d’analyser la parité femmes‑hommes dans le monde (éducation, emploi, droits, représentation politique) et de comparer les écarts par pays et par zone géographique.  
+
+**Travail réalisé** :  
+* Collecte, préparation et intégration de plusieurs sources de données internationales par pays et par année.  
+* Modélisation en étoile (clé pays + clé technique pays‑année), création de mesures et d’indicateurs de parité.  
+* Conception d’un tableau de bord interactif : carte mondiale, graphiques comparatifs par genre, analyses d’évolution historique.  
+
+**Valeur métier** : fournir un outil visuel et interactif pour identifier les zones en retard, suivre les progrès en matière d’égalité femmes‑hommes et soutenir la prise de décision des acteurs publics, ONG ou entreprises engagées sur les enjeux de parité.
+
+---
+
 ## 🛠️ Compétences & outils
 
 - **Langages & libs :** Python (pandas, numpy, matplotlib, seaborn, scikit-learn), SQL.  
