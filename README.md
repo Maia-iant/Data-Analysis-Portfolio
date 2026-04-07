@@ -130,4 +130,4 @@ Je suis disponible pour des missions freelance (remote ou région PACA) :
 
 - Email : iannottamaryline@gmail.com  
 - LinkedIn : [Profil LinkedIn](https://www.linkedin.com/in/maryline-iannotta/)
-- GitHub : [https://github.com/Maia-iant](https://github.com/Maia-iant)
+- GitHub : [Profil GitHub](https://github.com/Maia-iant)
