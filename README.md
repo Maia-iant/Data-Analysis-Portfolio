@@ -129,5 +129,5 @@ Je suis disponible pour des missions freelance (remote ou région PACA) :
 - Mise en place de reporting simple et actionnable pour dirigeants ou responsables métiers.
 
 - Email : iannottamaryline@gmail.com  
-- LinkedIn : [https://www.linkedin.com/in/maryline-i-48b6201b1](https://www.linkedin.com/in/maryline-i-48b6201b1)  
+- LinkedIn : [https://www.linkedin.com/in/maryline-i-48b6201b1](https://www.linkedin.com/in/maryline-iannotta/)  
 - GitHub : [https://github.com/Maia-iant](https://github.com/Maia-iant)
